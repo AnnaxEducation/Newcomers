@@ -3,7 +3,7 @@
 This repository includes the first steps needed to start an apprenticeship as an application developer.
 
 ## Presentation
-[Presentation](https://docs.google.com/presentation/d/1xwlQlVw7gnGxckVNumXXWhdi2Boxb176SCL9WtjtYDE/edit?usp=sharingm)
+[Presentation (German)](https://docs.google.com/presentation/d/1xwlQlVw7gnGxckVNumXXWhdi2Boxb176SCL9WtjtYDE/edit?usp=sharingm)
 
 ## Tutorials
 
